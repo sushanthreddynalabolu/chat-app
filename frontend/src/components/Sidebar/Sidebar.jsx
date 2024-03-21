@@ -9,9 +9,6 @@ const Sidebar = () => {
         <div className='divider px-3'>
         </div>
         <Conversations/>
-        {/* <Conversation />
-        <LogoutButton/> */}
-
         <LogOutButton/>
       
     </div>
